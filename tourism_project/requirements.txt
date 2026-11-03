@@ -1,0 +1,1 @@
+pandas==2.2.2\nscikit-learn==1.6.0\nxgboost==2.1.4\njoblib==1.5.1\nmlflow==3.0.1\n
